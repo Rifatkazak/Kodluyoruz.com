@@ -1,0 +1,37 @@
+
+  body {
+    background-color : #EAF6F6;
+    font-size: 35px;
+  }
+  hr {
+    border-style: dotted none none ;
+    border-color : grey ;
+    border-width : 10px ;
+    width: 5% ;
+  }
+  .img, .img-text{
+    text-align: center;
+  }
+ .img img {
+   border-radius: 50%;
+ }
+ .books{
+   margin-left:40% ;
+ }
+ .skills{
+  margin-left: 35%;
+ }
+ .teach{
+  margin-left: 42%;
+ }
+ .footer{
+   text-align: center;
+ }
+ 
+  h1 {
+    color :chocolate;
+  }
+  h3 {
+    color :#66BFBF;
+    text-align: center;
+  }
