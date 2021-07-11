@@ -64,13 +64,13 @@ body {
     margin-bottom: 2rem;
 }
 .searchbar {
-    border: 1px solid gray;
+    border: none;
     border-radius: 50px;
     position: relative;
-    
     margin-top:10rem;
     height: 4rem;
 }
+
 .fa-search{
     font-size: 2em;
     position: relative;
@@ -87,11 +87,14 @@ body {
     color: gray;
 }
 .input {
-    position: static;
-    width: 40rem;
+
+    width: 50rem;
     height: 4rem;
     border: 1px solid gray;
-    border-radius: 25px;
+    border-radius: 50px;
+    font-size: 1.5em;
+    padding-left: 3rem;
+
 }
 .google-btn {
     margin-top: 2rem;
