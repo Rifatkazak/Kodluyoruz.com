@@ -1,0 +1,14 @@
+.btn-container{
+  text-align: center;
+  margin-right: 0;
+}
+.btn{
+    border: none;
+    outline: none;
+   margin-top:1rem;
+   padding: 0.5rem; 
+}
+.btn:hover {
+    background-color: #bdbd60;
+    color: white;
+}
